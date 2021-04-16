@@ -299,8 +299,8 @@ public class Gestion_Graphe_Orienter extends JFrame {
 		btnNewButton.setBounds(121, 401, 85, 21);
 		contentPane.add(btnNewButton);
 		
-		JButton btnNonValuer = new JButton("Non Valuer");
-		JButton btnValuer = new JButton("Valuer");
+		JButton btnNonValuer = new JButton("Non Value");
+		JButton btnValuer = new JButton("Value");
 		
 		btnNonValuer.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {

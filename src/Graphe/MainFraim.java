@@ -47,7 +47,7 @@ public class MainFraim extends JFrame {
 				frame.setVisible(true);
 			}
 		});
-		btnGraphe_Nom_Orienter.setBounds(81, 127, 138, 21);
+		btnGraphe_Nom_Orienter.setBounds(81, 127, 180, 21);
 		contentPane.add(btnGraphe_Nom_Orienter);
 		
 		JButton btnNewButton_2 = new JButton("Tache");
